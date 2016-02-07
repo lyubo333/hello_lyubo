@@ -10,6 +10,7 @@
 		}else {
 			echo 'Not Valid triangle';
 		}
+		//komentar'piojqer;goihawer;goihjawrfogihw[roijQAWRG]
 	}
 	///tester 
 	///tester 
